@@ -8,7 +8,9 @@ I use [Unity](https://unity3d.com) to build this project.
 
 To keep things as tiny as possible, I didn't include all files in this repo, but you can still build them step by step.
 
-After cloning this repository, open the project with Unity. It'll import some necessary files.
+After cloning this repo, open the project with Unity. It'll import some necessary files.
+
+Then navigate to `Assets/DataFiles/Scenes`, you can preview the game with different scenes here.
 
 ## Dependencies
 
@@ -26,7 +28,7 @@ Xcode                                   Version 9.3 (9E145)
 
 After cloning this repo, select `File > Build Settings` in the top bar.
 
-Then choose the Platform you want to run the app and press `Switch Platform`. It'll take some time to import the assets. Here I use `iOS` as example.
+Then choose the Platform you want to run and press `Switch Platform`. It'll take some time to import the assets. Here I use `iOS` as example.
 
 Also, make sure that the order of **Scenes In Build** in the `Build Settings` as follows:
 
@@ -53,9 +55,9 @@ Have fun with the ***MonsterGo***!
 
 ## Customization
 
-All script files are in `./Assets/DataFiles/Scripts/`, you can change them on your own.
+All script files are in `Assets/DataFiles/Scripts/`, you can change them on your own.
 
-Other necessary files (Fonts, Prefabs, etc) are in `./Assets/`.
+Other necessary files (Fonts, Prefabs, etc) are in `Assets/`.
 
 ## Screenshots
 
