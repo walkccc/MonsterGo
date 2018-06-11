@@ -47,7 +47,15 @@ Otherwise, it'll cause unexpected behavior in your iPhone! (I haven't tested the
 
 In the top bar, select `Build & Run` and press the `Build And Run` button in the bottom right, then save the project to any name you want.
 
-Unity will then open the Xcode automatically, and make sure to choose the `Team` option (Here I choose Personal Team) in the `Signing` field. Have fun with the ***MonsterGo***!
+Unity will then open the Xcode automatically, and make sure to choose the `Team` option (Here I choose Personal Team) in the `Signing` field.
+
+Have fun with the ***MonsterGo***!
+
+## Customization
+
+All script files are in `./Assets/DataFiles/Scripts/`, you can change them on your own.
+
+Other necessary files (Fonts, Prefabs, etc) are in `./Assets/`.
 
 ## Screenshots
 
@@ -66,9 +74,3 @@ Unity will then open the Xcode automatically, and make sure to choose the `Team`
 ### EndScene
 
 ![](Screenshots/EndScene.png)
-
-## Customization
-
-All script files are in `./Assets/DataFiles/Scripts/`, you can change them on your own.
-
-Other necessary files (Fonts, Prefabs, etc) are in `./Assets/`.
