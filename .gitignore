@@ -1,0 +1,7 @@
+.DS_Store
+Library/
+obj/
+ProjectSettings/
+Temp/
+UnityPackageManager/
+*.meta
