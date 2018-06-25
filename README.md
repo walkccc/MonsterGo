@@ -10,7 +10,7 @@ To keep things as tiny as possible, I didn't include all files in this repo, but
 
 After cloning this repo, open the project with Unity. It'll import some necessary files.
 
-Then navigate to ![Assets/DataFiles/Scenes](https://github.com/walkccc/MonsterGo/tree/master/Assets/DataFiles/Scenes), you can preview the game with different scenes here.
+Then navigate to [Assets/DataFiles/Scenes](https://github.com/walkccc/MonsterGo/tree/master/Assets/DataFiles/Scenes), you can preview the game with different scenes here.
 
 ## Dependencies
 
@@ -55,9 +55,9 @@ Have fun with the ***MonsterGo***!
 
 ## Customization
 
-All script files are in ![Assets/DataFiles/Scripts/](https://github.com/walkccc/MonsterGo/tree/master/Assets/DataFiles/Scripts), you can change them on your own.
+All script files are in [Assets/DataFiles/Scripts/](https://github.com/walkccc/MonsterGo/tree/master/Assets/DataFiles/Scripts), you can change them on your own.
 
-Other necessary files (Fonts, Prefabs, etc) are in ![Assets/](https://github.com/walkccc/MonsterGo/tree/master/Assets).
+Other necessary files (Fonts, Prefabs, etc) are in [Assets/](https://github.com/walkccc/MonsterGo/tree/master/Assets).
 
 ## Screenshots
 
